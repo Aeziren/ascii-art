@@ -6,6 +6,14 @@ Creates ASCII Art based on your input and style options.
 
 ![image](https://github.com/Aeziren/ascii-art/assets/123553708/8206760e-0893-4c80-b4df-df896d13d8b4)
 
+## Usage
+Install pyfiglet
+
+``
+pip install pyfiglet
+``
+
+The run like the examples below:
 ## Examples
 ![image](https://github.com/Aeziren/ascii-art/assets/123553708/03f88014-796d-4dee-92e3-dce14f28e33d)
 
